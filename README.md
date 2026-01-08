@@ -75,6 +75,6 @@ Padronização de código
 
 ---
 
-##👨‍💻 Autor
+## 🧑‍💻 Autor
 Projeto desenvolvido por Matheus Xavier da Silva
 Focado em aprendizado e evolução na área de Desenvolvimento Backend / Fullstack.
